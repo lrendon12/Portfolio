@@ -1,7 +1,10 @@
 import React from "react";
 
+
+
 function About(){
     return(
+       
         <div className="container">
         {/* <!-- <div className="indexstyle"
             style="background-repeat: repeat; background-size: auto; background-image: url('./Assets/Images/watercolor.png'); ">
