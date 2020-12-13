@@ -1,10 +1,10 @@
 import React from "react";
 
-export default function Contact(){
+function Contact(){
     return(
-        <div className="container">
-            </div>
+        <div>
+        <h1>Contact Page</h1>   
+      </div>
     ) 
 }
-
-// export default Contact;
+export default Contact;
